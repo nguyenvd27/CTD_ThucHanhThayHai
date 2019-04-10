@@ -1,0 +1,26 @@
+Program Example2; (* Factorial *)
+   
+Var n : Integer;
+
+Procedure toto();
+  Begin
+	i:=1;
+	x, y, z, t := y, z, t, x+y ;
+    If n = 0 Then F := 1 Else F := N * F (N - 1);
+  End;
+Begin
+  For n := 1 To 7 Do
+    Begin
+	i:=1;
+      Call WriteLn();
+      Call WriteI( F(i));
+    End;
+Begin
+  For(i:=0;i<n;n:=n+1) s:=s+n;
+    Begin
+	i:=1;
+      Call WriteLn();
+      Call WriteI( F(i));
+    End;
+End;
+End. (* Factorial *)
